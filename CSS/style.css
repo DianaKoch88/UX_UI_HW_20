@@ -1,0 +1,59 @@
+h1, h2, h3 , h4, h5, h6 {
+    font-family: 'Cabin Sketch', cursive;
+
+  }
+  p {
+    font-family: 'Petrona', serif;
+    
+  }
+  .navbar{
+    background-color: #FFE16B !important;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 150px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+  }
+  .jumbotron {
+    background-image: url(../Images/pawel-czerwinski-vI5XwPbGvmY-unsplash\ 1.png) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*height: calc(100vh - 25px);*/
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .jumbotron img{
+    padding: 15px;
+  }
+  .content {
+    padding: 50px;
+  }
+  .sectionheading {
+    text-align: center;
+  }
+  .Research  {
+    padding: 0px 30px 30px 30px;
+  }
+
+.cardcontainer {
+  text-align: center;
+ 
+}
+.card{
+    margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+.col{
+    padding: 25px;
+    margin: 20px;
+    border: 5px solid #57A5B8;
+}
+
